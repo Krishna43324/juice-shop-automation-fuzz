@@ -36,7 +36,7 @@ In order to understand the different vulnerabilities within the juice-shop appli
 ## Execution of Semgrep
 1. semgrep -config=p/typescript ~/Desktop/juice-shop/routes
 
-Note: ~/Desktop/juice-shop is the directory that the juice-shop application was installed within
+Note: ~/Desktop/juice-shop is the directory that the juice-shop application was installed within  
 Note: I chose to just scan the code within the /routes directory to find some vulnerabilities initially. /routes contain a lot of files of code that take user input, so I decided to run a scan against those. I configured the scanner as 'typescript' because all the code within /routes was written in typescript. This allows me to only load the typescript rules in the SAST scanner, reducing the time it takes to run the scan.
 
 ## Findings from running the semgrep scan
