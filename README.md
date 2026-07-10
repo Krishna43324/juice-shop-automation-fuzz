@@ -26,4 +26,3 @@ The goal of this project is to provide people a way to find vulnerabilities invo
 5. Run `npm start`
 6. Browse to [http://localhost:3000](http://localhost:3000)
 
-## Setup of juice-shop
