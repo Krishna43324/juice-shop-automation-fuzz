@@ -7,7 +7,7 @@ Juice-Shop-Automation-Fuzz
 ## Project Overview
 
 ## Goal of this Project
-The goal of this project is to provide people a way to find vulnerabilities involving lack of permission enforcement and lack of user-based or JWT validation
+The goal of this project is to provide people a way to find vulnerabilities involving lack of permission enforcement and lack of user-based validation or JWT validation
 
 ## Technologies Used
 1. Kali Linux
