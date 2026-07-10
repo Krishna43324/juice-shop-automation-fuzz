@@ -17,3 +17,5 @@ The goal of this project is to provide people a way to find vulnerabilities invo
 5. API of OWASP ZAP
 6. BurpSuite
 7. semgrep
+
+## Setup of juice-shop
